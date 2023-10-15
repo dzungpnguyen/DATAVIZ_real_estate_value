@@ -181,7 +181,6 @@ if __name__ == '__main__':
   
   # title and header
   st.title('Estate Value Analytics of 2019 et 2020')
-  st.header('Author: Nguyen Phuong Dung')
 
   # dropdown used data
   st.subheader('Used Data')
