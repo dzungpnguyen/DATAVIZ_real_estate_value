@@ -180,7 +180,7 @@ if __name__ == '__main__':
   df_2019, df_2020 = preparing()
   
   # title and header
-  st.title('Demande de Valeurs Foncières 2019 et 2020')
+  st.title('Estate Value Analytics of 2019 et 2020')
   st.header('Author: Nguyen Phuong Dung')
 
   # dropdown used data
